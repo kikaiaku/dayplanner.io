@@ -1,1 +1,1 @@
-# dayplanner.io
+https://kikaiaku.github.io/dayplanner.io/
